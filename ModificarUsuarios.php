@@ -105,6 +105,10 @@ while($res2 = mysqli_fetch_array($result3))
         <i class="fa fa-user"></i>
 		<br>
         <input id="ButModifi" type="submit" id="next" class="action-button" value="Modificar" />
+
+
+
+
     </fieldset>
 </form>
 
