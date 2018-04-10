@@ -1,0 +1,160 @@
+html {
+	height: 100%;
+
+}
+
+* {margin: 0; padding: 0;}
+
+body {
+	font-family: montserrat, arial, verdana;
+}
+
+#msform {
+	width: 600px;
+	margin: 10px auto;
+	text-align: center;
+	position: relative;
+}
+#msform .fa{
+    color: #E0E0E0;
+}
+
+
+#msform fieldset {
+	background: white;
+	border: 0 none;
+	border-radius: 10px;
+	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+	padding: 20px 30px;
+	box-sizing: border-box;
+	width: 80%;
+	margin: 0 10%;
+	position: absolute;
+}
+
+#msform fieldset:not(:first-of-type) {
+	display: none;
+}
+
+#msform input[type=text] {
+	display: block;
+	padding: 12px 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	border: 1px solid #ddd;
+	transition: border-width 0.2s ease;
+	border-radius: 2px;
+	color: black;
+}
+#msform input[type=password] {
+	display: block;
+	padding: 12px 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	border: 1px solid #ddd;
+	transition: border-width 0.2s ease;
+	border-radius: 2px;
+	color: black;
+}
+
+#msform input[type=email]{
+	display: block;
+	padding: 12px 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	border: 1px solid #ddd;
+	transition: border-width 0.2s ease;
+	border-radius: 2px;
+	color: black;
+}
+
+#msform textarea {
+	display: block;
+	padding: 12px 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	border: 1px solid #ddd;
+	transition: border-width 0.2s ease;
+	border-radius: 2px;
+	color: #ccc;
+}
+
+#msform .action-button {
+	width: 100px;
+	background: #2196F3;
+	font-weight: bold;
+	color: white;
+	border: 0 none;
+	border-radius: 1px;
+	cursor: pointer;
+	padding: 10px 5px;
+	margin: 10px 5px;
+}
+#msform input[type=text] + i.fa {
+	color: #fff;
+	font-size: 1em;
+	position: absolute;
+	margin-top: -43px;
+	opacity: 0;
+	left: 0;
+	transition: all 0.1s ease-in;
+}
+
+#msform input[type=text]:focus {
+	outline: none;
+	color: black;
+	border-color: #2196F3;
+	border-left-width: 35px;
+}
+
+#msform input[type=text]:focus + i.fa {
+	opacity: 1;
+	left: 40px;
+	transition: all 0.25s ease-out;
+}
+
+#msform input[type=email] + i.fa {
+	color: #fff;
+	font-size: 1em;
+	position: absolute;
+	margin-top: -43px;
+	opacity: 0;
+	left: 0;
+	transition: all 0.1s ease-in;
+}
+
+#msform input[type=email]:focus {
+	outline: none;
+	color: black;
+	border-color: #2196F3;
+	border-left-width: 35px;
+}
+
+#msform input[type=email]:focus + i.fa {
+	opacity: 1;
+	left: 40px;
+	transition: all 0.25s ease-out;
+}
+
+#msform input[type=password] + i.fa {
+	color: #fff;
+	font-size: 1em;
+	position: absolute;
+	margin-top: -43px;
+	opacity: 0;
+	left: 0;
+	transition: all 0.1s ease-in;
+}
+
+#msform input[type=password]:focus {
+	outline: none;
+	color: black;
+	border-color: #2196F3;
+	border-left-width: 35px;
+}
+
+#msform input[type=password]:focus + i.fa {
+	opacity: 1;
+	left: 40px;
+	transition: all 0.25s ease-out;
+}

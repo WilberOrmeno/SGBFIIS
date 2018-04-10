@@ -1,0 +1,5 @@
+<link rel="stylesheet" type="text/css" href="calendar/tcal.css" />
+<script type="text/javascript" src="calendar/tcal.js"></script>
+
+<input type="text" id="txtFecIni" name="txtFecIni" class="tcal" maxlength="10" size="10" style="background-color:#FFFFFF" 
+value="<? echo $hoy?>">

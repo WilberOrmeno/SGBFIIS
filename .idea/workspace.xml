@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40926c51-0967-4bdf-91bc-cd85f2f07daf" name="Default" comment="commit files">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModificarUsuarios.php" beforeDir="false" afterPath="$PROJECT_DIR$/ModificarUsuarios.php" afterDir="false" />
+    </list>
+    <ignored path="Sistema de Gestión Bibliotecario para la FIIS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Sistema de Gestión Bibliotecario para la FIIS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Autenticacion.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Autenticacion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Registro.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Registro.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="UsuarioBuscado.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UsuarioBuscado.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsuarioAgregado.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UsuarioAgregado.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agregarimagen.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/agregarimagen.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mostrarimagen.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mostrarimagen.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ModificarUsuarios.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ModificarUsuarios.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="92" selection-end-column="13" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#fieldset#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DocumentoAgregado.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DocumentoAgregado.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AgregarUsuario.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AgregarUsuario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1445">
+              <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AgregarDocumentos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AgregarDocumentos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1411">
+              <caret line="83" selection-start-line="81" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IngresoUsuario.html" />
+        <option value="$PROJECT_DIR$/ModificarDocumentos.html" />
+        <option value="$PROJECT_DIR$/ModificarUsuarios.html" />
+        <option value="$PROJECT_DIR$/PantallaADM.html" />
+        <option value="$PROJECT_DIR$/PantallaBIBLIOTECARIO.html" />
+        <option value="$PROJECT_DIR$/PantallaESTUDIANTE.html" />
+        <option value="$PROJECT_DIR$/Texto.html" />
+        <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$PROJECT_DIR$/AgregarUsuarioB.php" />
+        <option value="$PROJECT_DIR$/Contactenos.html" />
+        <option value="$PROJECT_DIR$/BusquedaAlumnoNS.php" />
+        <option value="G:/server/root/SGBFIIS/css/sRegistro.css" />
+        <option value="$PROJECT_DIR$/RegistrarPrestamo.html" />
+        <option value="$PROJECT_DIR$/RegistrarPrestamo.php" />
+        <option value="G:/server/root/SGBFIIS/Cabecera.php" />
+        <option value="G:/server/root/SGBFIIS/RegistrarPrestamo.php" />
+        <option value="$PROJECT_DIR$/css/sRegistro.css" />
+        <option value="$PROJECT_DIR$/w.html" />
+        <option value="$PROJECT_DIR$/VerificarConexion.php" />
+        <option value="$PROJECT_DIR$/BuscarUsuariosB.php" />
+        <option value="$PROJECT_DIR$/IngresoUsuario.php" />
+        <option value="$PROJECT_DIR$/Devolucion.php" />
+        <option value="$PROJECT_DIR$/agregarimagen.php" />
+        <option value="$PROJECT_DIR$/DocumentoAgregado.php" />
+        <option value="$PROJECT_DIR$/Texto.php" />
+        <option value="$PROJECT_DIR$/IdParaModificar.php" />
+        <option value="$PROJECT_DIR$/ModificarUsuariosB.php" />
+        <option value="$PROJECT_DIR$/Autenticacion.php" />
+        <option value="$PROJECT_DIR$/PantallaBIBLIOTECARIO.php" />
+        <option value="$PROJECT_DIR$/Contactenos.php" />
+        <option value="$PROJECT_DIR$/PantallaESTUDIANTE.php" />
+        <option value="$PROJECT_DIR$/AgregarDocumentos.php" />
+        <option value="$PROJECT_DIR$/ModificarDocumentos.php" />
+        <option value="$PROJECT_DIR$/Cabecera.php" />
+        <option value="$PROJECT_DIR$/PHP/MaterialBuscado.php" />
+        <option value="$PROJECT_DIR$/BuscarUsuarios.php" />
+        <option value="$PROJECT_DIR$/UsuarioBuscado.php" />
+        <option value="$PROJECT_DIR$/MaterialBuscado.php" />
+        <option value="$PROJECT_DIR$/BuscarMaterial.php" />
+        <option value="$PROJECT_DIR$/MaterialBuscado2.php" />
+        <option value="$PROJECT_DIR$/BusquedaAlumno.php" />
+        <option value="$PROJECT_DIR$/UsuarioModificado.php" />
+        <option value="$PROJECT_DIR$/Reserva.php" />
+        <option value="$PROJECT_DIR$/PrestamoRealizadoConfirmado.php" />
+        <option value="$PROJECT_DIR$/conexion.php" />
+        <option value="$PROJECT_DIR$/bloqueDeSeguridad.php" />
+        <option value="$PROJECT_DIR$/PantallaDeMuestra.php" />
+        <option value="$PROJECT_DIR$/PantallaADM.php" />
+        <option value="$PROJECT_DIR$/AgregarUsuario.php" />
+        <option value="$PROJECT_DIR$/UsuarioAgregado.php" />
+        <option value="$PROJECT_DIR$/ModificarUsuarios.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SGBFIIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SGBFIIS" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="push&#9;ACTION&#9;Vcs.Push&#10;pus&#9;ACTION&#9;Vcs.Push&#10;git&#9;ACTION&#9;Git.Init" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\SGBFIIS" />
+      <recent name="C:\wamp64\www\SGBFIIS\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\SGBFIIS" />
+      <recent name="C:\wamp64\www\SGBFIIS\js" />
+      <recent name="C:\wamp64\www\SGBFIIS\css" />
+      <recent name="C:\wamp64\www\Sistema de Gestión Bibliotecario para la FIIS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.agregarimagen.php">
+    <configuration name="AgregarUsuario.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/SGBFIIS/AgregarUsuario.php" />
+    <configuration name="Index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/SGBFIIS/Index.php" />
+    <configuration name="agregarimagen.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/SGBFIIS/agregarimagen.php" />
+    <configuration name="SGBFIIS" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="UsuarioAgregado.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/UsuarioAgregado.php" />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.SGBFIIS" />
+      <item itemvalue="JavaScript Debug.Index.php" />
+      <item itemvalue="JavaScript Debug.AgregarUsuario.php" />
+      <item itemvalue="PHP Script.UsuarioAgregado.php" />
+      <item itemvalue="JavaScript Debug.agregarimagen.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.agregarimagen.php" />
+        <item itemvalue="PHP Script.UsuarioAgregado.php" />
+        <item itemvalue="JavaScript Debug.AgregarUsuario.php" />
+        <item itemvalue="JavaScript Debug.Index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40926c51-0967-4bdf-91bc-cd85f2f07daf" name="Default" comment="" />
+      <created>1489974143646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489974143646</updated>
+      <workItem from="1489974145192" duration="599000" />
+      <workItem from="1490023623225" duration="3898000" />
+      <workItem from="1490041339571" duration="2210000" />
+      <workItem from="1490200973599" duration="8545000" />
+      <workItem from="1490293516330" duration="11578000" />
+      <workItem from="1491003143539" duration="1149000" />
+      <workItem from="1495041439985" duration="15595000" />
+      <workItem from="1495135000559" duration="5493000" />
+      <workItem from="1495152142940" duration="9364000" />
+      <workItem from="1495235162450" duration="278000" />
+      <workItem from="1495317495848" duration="848000" />
+      <workItem from="1495384577184" duration="9581000" />
+      <workItem from="1495464058123" duration="3622000" />
+      <workItem from="1495600453332" duration="92000" />
+      <workItem from="1495636354394" duration="10112000" />
+      <workItem from="1495738716834" duration="14281000" />
+      <workItem from="1495923720773" duration="2208000" />
+      <workItem from="1495925981761" duration="2044000" />
+      <workItem from="1495928383673" duration="245000" />
+      <workItem from="1495928672475" duration="185000" />
+      <workItem from="1495928935688" duration="9320000" />
+      <workItem from="1496086202294" duration="392000" />
+      <workItem from="1496086667972" duration="3475000" />
+      <workItem from="1496248374838" duration="2456000" />
+      <workItem from="1496254655411" duration="7060000" />
+      <workItem from="1496264252835" duration="10025000" />
+      <workItem from="1496358257457" duration="19157000" />
+      <workItem from="1496532624526" duration="269000" />
+      <workItem from="1496534932580" duration="3070000" />
+      <workItem from="1496583993292" duration="1314000" />
+      <workItem from="1496622143016" duration="8325000" />
+      <workItem from="1496766572554" duration="9048000" />
+      <workItem from="1496809063866" duration="5713000" />
+      <workItem from="1496844375485" duration="1437000" />
+      <workItem from="1496853588833" duration="13054000" />
+      <workItem from="1496877229192" duration="4212000" />
+      <workItem from="1498074368524" duration="637000" />
+      <workItem from="1498624961111" duration="1585000" />
+      <workItem from="1499647388424" duration="1643000" />
+      <workItem from="1499725639767" duration="279000" />
+      <workItem from="1499734266659" duration="1989000" />
+      <workItem from="1499736835669" duration="681000" />
+      <workItem from="1499738674055" duration="9000" />
+      <workItem from="1499738759053" duration="1600000" />
+      <workItem from="1499743515122" duration="3356000" />
+      <workItem from="1499798237428" duration="686000" />
+      <workItem from="1499821468858" duration="298000" />
+      <workItem from="1499894612006" duration="1120000" />
+      <workItem from="1500249799977" duration="813000" />
+      <workItem from="1500251305009" duration="742000" />
+      <workItem from="1500252655514" duration="2098000" />
+      <workItem from="1500263591181" duration="1493000" />
+      <workItem from="1500347636541" duration="816000" />
+      <workItem from="1500419981789" duration="602000" />
+      <workItem from="1500524654113" duration="29000" />
+      <workItem from="1523373894397" duration="2019000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit files">
+      <created>1523375449285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523375449285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="222749000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17122395" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50907713" side_tool="true" visible="true" weight="0.18057455" />
+      <window_info anchor="right" id="Database" order="3" weight="0.46675357" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49092284" visible="true" weight="0.18003273" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15279879" />
+      <window_info id="Structure" order="1" weight="0.24962178" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50907713" side_tool="true" weight="0.1816694" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49092284" weight="0.18003273" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit files" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url />
+          <line>60</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url />
+          <line>3</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Deolucion.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.023/DocumentoAgregado.php" />
+    <entry file="file://$PROJECT_DIR$/BusquedaAlumno(NS).php" />
+    <entry file="file://$PROJECT_DIR$/ModificarUsuariosB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="117" selection-start-line="19" selection-start-column="117" selection-end-line="19" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IdParaModificar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SGBFIIS-b/Cabecera.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.835/BuscarUsuarios.php" />
+    <entry file="file://$PROJECT_DIR$/Contactenos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PantallaESTUDIANTE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AgregarDocumentos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1667" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DocumentoAgregado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SGBFIIS-j/ModificarDocumentos.php" />
+    <entry file="file://$PROJECT_DIR$/ModificarDocumentos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="67" column="64" selection-start-line="67" selection-start-column="64" selection-end-line="67" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.087/BuscarMaterial.php" />
+    <entry file="file://$PROJECT_DIR$/MaterialBuscado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="42" selection-start-line="61" selection-start-column="42" selection-end-line="61" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaterialBuscado2.php" />
+    <entry file="file://$PROJECT_DIR$/BusquedaAlumno.php" />
+    <entry file="file://$PROJECT_DIR$/../SGBFIIS-d/Texto.php" />
+    <entry file="file://$USER_HOME$/Desktop/server/root/SGBFIIS/VerificarConexion.php" />
+    <entry file="file://$PROJECT_DIR$/UsuarioModificado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="84" selection-start-line="27" selection-start-column="84" selection-end-line="27" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegistrarPrestamo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrestamoRealizado.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConfirmarReserva.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.445/index.php" />
+    <entry file="file://$PROJECT_DIR$/IngresoUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" selection-start-line="102" selection-end-line="102" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VerificarConexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PantallaBIBLIOTECARIO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrestamoRealizadoConfirmado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegistrarDevolucion.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/salir.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PantallaDeMuestra.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PantallaADM.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devolucion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reserva.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="56" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuscarMaterial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloqueDeSeguridad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuscarUsuarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cabecera.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autenticacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Registro.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UsuarioBuscado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AgregarUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DocumentoAgregado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AgregarDocumentos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" selection-start-line="81" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UsuarioAgregado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agregarimagen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mostrarimagen.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModificarUsuarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="92" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#fieldset#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

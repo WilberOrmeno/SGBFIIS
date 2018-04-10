@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/../../apps/phpmyadmin4.6.4/libraries/autoloader.php" phpunit_phar_path="" />
+      <phpunit_by_deployment server_id="1dbd8991-722d-4558-942b-292cdd0618e2" load_method="CUSTOM_LOADER" />
+    </phpunit_settings>
+  </component>
+</project>
